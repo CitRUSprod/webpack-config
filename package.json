@@ -33,7 +33,7 @@
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "^5.11.2",
-        "lodash": "^4.17.15",
+        "lodash": "^4.17.19",
         "vue": "^2.6.10",
         "vuetify": "^2.1.13"
     }
